@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://dailybuzz-news.netlify.app/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/tommy-lee-jones.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/richard-gere.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/taylor-gala.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/emmys.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/naughty.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/mia.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/elsinore.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/tinashe.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/traitors.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/northumbria.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/skindred.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
