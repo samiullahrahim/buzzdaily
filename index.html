@@ -83,11 +83,14 @@
 .bc-head{font-family:var(--serif);font-size:1.15rem;margin:0 0 14px;color:var(--ink)}
 .bc-head .bc-count{font-weight:700}
 .bc-list{display:flex;flex-direction:column;margin:0 0 22px}
-.bc-item{padding:12px 0;border-bottom:1px solid var(--line)}
+.bc-item{display:flex;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
 .bc-item:first-child{padding-top:0}
-.bc-meta{font-size:.74rem;letter-spacing:.02em;color:var(--muted);margin-bottom:5px}
+.bc-avatar{width:36px;height:36px;border-radius:50%;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1rem;flex-shrink:0}
+.bc-main{flex:1;min-width:0}
+.bc-bubble{background:var(--soft);border-radius:16px;padding:8px 12px;display:inline-block;max-width:100%}
 .bc-who{font-weight:700;color:var(--ink);font-size:.82rem}
-.bc-said{font-size:.96rem;line-height:1.6;color:var(--ink);white-space:pre-wrap;word-wrap:break-word}
+.bc-said{font-size:.93rem;line-height:1.55;color:var(--ink);white-space:pre-wrap;word-wrap:break-word}
+.bc-when{font-size:.72rem;color:var(--muted);margin-top:5px;padding-left:12px}
 .bc-empty,.bc-loading{color:var(--muted);font-size:.92rem;padding:10px 0}
 .bc-form{display:flex;flex-direction:column;gap:10px}
 .bc-name,.bc-text{display:block;width:100%;border:1px solid var(--line);background:#fff;padding:10px 12px;font-size:.95rem;border-radius:6px;outline:none;color:#1a1a1a;font-family:inherit}
@@ -241,6 +244,7 @@ let bcAuthed = false;
 function bcEscape(s){
   return String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
+function bcAvatarColor(nm){let h=0;for(let i=0;i<nm.length;i++)h=(h*31+nm.charCodeAt(i))%360;return 'hsl('+h+',45%,42%)';}
 function bcTimeAgo(ts){
   if(!ts) return '';
   const d = ts.toDate ? ts.toDate() : new Date(ts);
@@ -300,10 +304,11 @@ function initBuzzComments(articleId){
     }
     listEl.innerHTML = docs.map(d=>{
       const c = d.data();
-      const nm = (c.name && String(c.name).trim()) ? bcEscape(c.name.trim()) : 'Guest';
-      return '<div class="bc-item"><div class="bc-meta"><span class="bc-who">'+nm+
-        '</span> · <span class="bc-when">'+bcEscape(bcTimeAgo(c.createdAt))+
-        '</span></div><div class="bc-said">'+bcEscape(c.text)+'</div></div>';
+      const raw = (c.name && String(c.name).trim()) ? c.name.trim().slice(0,40) : 'Guest';
+      const nm = bcEscape(raw);
+      return '<div class="bc-item"><div class="bc-avatar" style="background:'+bcAvatarColor(raw)+'">'+bcEscape(raw.charAt(0).toUpperCase())+'</div>'+
+        '<div class="bc-main"><div class="bc-bubble"><div class="bc-who">'+nm+'</div><div class="bc-said">'+bcEscape(c.text)+'</div></div>'+
+        '<div class="bc-when">'+bcEscape(bcTimeAgo(c.createdAt))+'</div></div></div>';
     }).join('');
   }
 
