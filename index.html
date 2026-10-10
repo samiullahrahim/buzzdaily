@@ -125,7 +125,7 @@
     function renderHeroCarousel(){
       const carousel=document.getElementById('heroCarousel'),slidesRoot=document.getElementById('heroSlides'),dotsRoot=document.getElementById('heroDots');
       if(!carousel||!slidesRoot||!dotsRoot)return;
-      const featured=Object.entries(articles).filter(([id])=>!['richard-gere','tommy-lee-jones'].includes(id)).sort(([,a],[,b])=>articleTimestamp(b)-articleTimestamp(a)).slice(0,4);
+      const featured=Object.entries(articles).sort(([,a],[,b])=>articleTimestamp(b)-articleTimestamp(a)).slice(0,4);
       let current=0,timer=null,touchX=0,touchY=0,paused=false;
       const dek=article=>article.dek||article.body[0].match(/^.*?[.!?](?:\s|$)/)?.[0]?.trim()||article.body[0];
       slidesRoot.innerHTML=featured.map(([id,a],index)=>`<article class="hero-slide story-link${index===0?' active':''}" tabindex="${index===0?'0':'-1'}" data-id="${id}" data-category="${a.category}" aria-hidden="${index===0?'false':'true'}" aria-label="Featured story ${index+1} of ${featured.length}"><img src="${a.image}" alt="${a.alt}"><span class="tag">${a.category} · ${a.place}</span><h2>${a.title}</h2><p class="dek">${dek(a)}</p><div class="meta">By BuzzDaily Staff · ${a.date} · ${a.read}</div></article>`).join('');
