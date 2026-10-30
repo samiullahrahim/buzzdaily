@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dailybuzz-news.netlify.app/sitemap.xml
