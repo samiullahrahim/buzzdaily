@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-10</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/ye-dallas-record-rap-concert.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/russell-brand-jailed-10-years-sentencing.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/flight-of-the-conchords-new-zealand-tour-2026.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/im-a-celebrity-2026-wayne-rooney-australia.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/ariana-grande-focker-in-law-tonight-show.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/jamie-foxx-baby-alyce-huckstepp.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/russell-brand-guilty-rape-sexual-assault-sentencing.html</loc><lastmod>2026-11-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/celine-dion-air-bass-metallica-sphere.html</loc><lastmod>2026-11-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/iron-maiden-50th-anniversary-auckland-spark-arena.html</loc><lastmod>2026-11-08</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -12,7 +18,6 @@
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/daniel-macpherson-bluefly-priyanka-chopra-russell-crowe.html</loc><lastmod>2026-11-06</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/olivia-rodrigo-take-me-home-4-christmas.html</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/elton-john-cmat-step-into-christmas.html</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/flight-of-the-conchords-new-zealand-tour-2026.html</loc><lastmod>2026-11-05</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/ariana-grande-focker-in-law-unreleased-music.html</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/pierce-brosnan-callum-turner-next-james-bond.html</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/bryan-adams-hows-it-goin-album-canada.html</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -84,7 +89,4 @@
   <url><loc>https://dailybuzz-news.netlify.app/terms-and-conditions.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/disclaimer.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/authors.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/im-a-celebrity-2026-wayne-rooney-australia.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/ariana-grande-focker-in-law-tonight-show.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/jamie-foxx-baby-alyce-huckstepp.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
