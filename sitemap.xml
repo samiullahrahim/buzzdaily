@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-16</lastmod>
+
+
+<changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/bond-26-new-james-bond-announcement-screen-tests.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/foo-fighters-take-cover-uk-tour-2027-wembley-dates.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/sarah-snook-sam-pang-tonight-dave-lawson-tv-first.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/phil-collins-rock-roll-hall-of-fame-induction-2026.html</loc><lastmod>2026-11-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/judi-dench-memoir-bond-eyesight-update.html</loc><lastmod>2026-11-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/australia-win-rugby-league-world-cup-final-2026-result.html</loc><lastmod>2026-11-15</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -53,8 +59,8 @@
   <url><loc>https://dailybuzz-news.netlify.app/richard-gere.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/taylor-gala.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/emmys.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/naughty.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/mia.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/naughty.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/mia.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/elsinore.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/tinashe.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/traitors.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
