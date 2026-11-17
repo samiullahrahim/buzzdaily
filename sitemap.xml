@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-16</lastmod>
+  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-17</lastmod>
 
 
 <changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/robert-pattinson-james-bond-announced.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/grammy-nominations-2027-leading-nominees.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/hunger-games-sunrise-on-the-reaping-premiere-reunion.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/bond-26-new-james-bond-announcement-screen-tests.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/foo-fighters-take-cover-uk-tour-2027-wembley-dates.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/sarah-snook-sam-pang-tonight-dave-lawson-tv-first.html</loc><lastmod>2026-11-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
