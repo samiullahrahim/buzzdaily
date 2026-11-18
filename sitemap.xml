@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-17</lastmod>
+  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-18</lastmod>
 
 
 <changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/dancing-with-the-stars-season-35-semifinals-harry-shum-jr-eliminated.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/glastonbury-2027-lineup-harry-styles-billie-eilish-sam-fender-cher.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/the-game-awards-2026-nominees-gta-6-leads.html</loc><lastmod>2026-11-18</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/robert-pattinson-james-bond-announced.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/grammy-nominations-2027-leading-nominees.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/hunger-games-sunrise-on-the-reaping-premiere-reunion.html</loc><lastmod>2026-11-17</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
