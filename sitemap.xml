@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-25</lastmod>
+  <url><loc>https://dailybuzz-news.netlify.app/</loc><lastmod>2026-11-26</lastmod>
 
 
 <changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/andy-taylor-duran-duran-guitarist-dies-65.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/brad-pitt-angelina-jolie-settle-miraval-winery-legal-battle.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/judi-dench-robert-pattinson-james-bond-eyesight-memoir.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/dancing-with-the-stars-season-35-finale-ezra-frech-wins.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/jonbenet-ramsey-netflix-series-trailer-melissa-mccarthy-clive-owen.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/hayden-panettiere-estate-6-2-million-daughter-kaya-sole-heir.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/taylor-swift-vanity-fair-mastermind-expose.html</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/gabriel-iglesias-falls-ill-raleigh-show-doing-fine.html</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/assets/articles/katy-perry-justin-trudeau-european-vacation-venice.html</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -134,7 +140,4 @@
   <url><loc>https://dailybuzz-news.netlify.app/terms-and-conditions.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/disclaimer.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://dailybuzz-news.netlify.app/authors.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/dancing-with-the-stars-season-35-finale-ezra-frech-wins.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/jonbenet-ramsey-netflix-series-trailer-melissa-mccarthy-clive-owen.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://dailybuzz-news.netlify.app/assets/articles/hayden-panettiere-estate-6-2-million-daughter-kaya-sole-heir.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
